@@ -202,9 +202,12 @@
 }
 
 
-
-
-
+.text3 {
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial, sans-serif, Helvetica, Verdana;
+	padding-top: 50px;
+}
 
 
 .paragraph {
@@ -213,6 +216,11 @@
 }
 
 
+.box {
+	background: #bec1c6;
+	height: 600px;
+	width: 90%;	
+}
 
 
 
